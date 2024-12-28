@@ -1,0 +1,4 @@
+test: ..\eval_run_move_middle\test\images
+
+nc: 1
+names: ['people']

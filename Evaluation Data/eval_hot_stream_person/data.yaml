@@ -1,0 +1,4 @@
+test: ..\eval_hot_stream_person/test/images
+
+nc: 1
+names: ['people']

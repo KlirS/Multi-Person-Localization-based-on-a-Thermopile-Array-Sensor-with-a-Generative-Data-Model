@@ -1,0 +1,4 @@
+test: ..\eval_stand_still_middle\test\images
+
+nc: 1
+names: ['people']

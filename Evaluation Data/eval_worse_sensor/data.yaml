@@ -1,0 +1,4 @@
+test: ..\eval_worse_sensor\test\images
+
+nc: 1
+names: ['people']

@@ -1,0 +1,4 @@
+test: ..\eval_3rd_person/test/images
+
+nc: 1
+names: ['people']

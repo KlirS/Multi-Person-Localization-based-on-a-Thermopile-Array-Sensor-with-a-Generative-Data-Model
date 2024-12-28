@@ -1,0 +1,4 @@
+test: ..\eval_sit_move\test\images
+
+nc: 1
+names: ['people']

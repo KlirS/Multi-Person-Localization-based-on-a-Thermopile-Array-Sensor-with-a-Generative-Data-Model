@@ -1,0 +1,4 @@
+test: ..\eval_2nd_sensor\test\images
+
+nc: 1
+names: ['people']

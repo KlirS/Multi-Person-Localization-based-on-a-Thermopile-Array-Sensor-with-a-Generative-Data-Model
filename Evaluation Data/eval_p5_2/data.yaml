@@ -1,0 +1,4 @@
+test: ../eval_p5_2/test/images
+
+nc: 1
+names: ['people']

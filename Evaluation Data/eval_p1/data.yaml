@@ -1,0 +1,4 @@
+test: ..\eval_p1/test/images
+
+nc: 1
+names: ['people']

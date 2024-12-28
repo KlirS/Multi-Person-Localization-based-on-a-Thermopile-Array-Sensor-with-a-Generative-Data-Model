@@ -1,0 +1,4 @@
+test: ..\eval_run_border\test\images
+
+nc: 1
+names: ['people']

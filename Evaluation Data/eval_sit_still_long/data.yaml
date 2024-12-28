@@ -1,0 +1,4 @@
+test: ..\eval_sit_still_long\test\images
+
+nc: 1
+names: ['people']
